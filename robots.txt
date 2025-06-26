@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lu-fang-7.github.io/lufang.github.io/sitemap.xml
+Sitemap: https://Lu-Fang-7.github.io/sitemap.xml
