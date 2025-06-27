@@ -193,7 +193,6 @@ exclude:
   - _pages/blog.md
   - _news/announcement_*.md
   - _posts/
-  - assets/jupyter/blog.ipynb
   
 keep_files:
   - CNAME
