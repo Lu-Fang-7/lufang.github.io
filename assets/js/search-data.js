@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lufang.github.io/assets/pdf/Lu%20Fang%20CV.pdf";
+            window.location.href = "/lufang.github.io/assets/pdf/Lu-Fang-CV.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
