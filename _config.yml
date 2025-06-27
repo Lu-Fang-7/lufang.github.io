@@ -186,11 +186,14 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
-  - vendor
+  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _news/announcement_*.md
+  - _posts/
+  - assets/jupyter/blog.ipynb
   
 keep_files:
   - CNAME
