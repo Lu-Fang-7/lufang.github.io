@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Hi! I'm Lu Fang, and I'm currently a master student in <a href='https://en.wikipedia.org/wiki/Learning_analytics'>Learning Anaytics</a> in <a href='https://www.tc.columbia.edu/'>Teachers College, Columbia University</a>.
 
 profile:
   align: right
