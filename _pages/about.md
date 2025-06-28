@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi! I'm Lu Fang, and I'm currently a master student in <a href='https://en.wikipedia.org/wiki/Learning_analytics'>Learning Anaytics</a> in <a href='https://www.tc.columbia.edu/'>Teachers College, Columbia University</a>.
+subtitle: Hi! I'm Lu Fang, and I'm currently a master student in <a href='https://en.wikipedia.org/wiki/Learning_analytics'>Learning Anaytics</a> at <a href='https://www.tc.columbia.edu/'>Teachers College, Columbia University</a>.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: lf.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>New York City, NY 11101</p>
@@ -25,8 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a gamer, I regularly explore <a href="https://en.wikipedia.org/wiki/Indie_game">indie games</a>, and my favorite genre is <a href="https://screenrant.com/roguelike-roguelite-difference-permadeath-hades-rogue-slay-spire/">roguelite</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a CS/Science teacher, the most rewarding moments for me are hearing my students share their imaginative and creative ideas—and then helping them bring those ideas to life.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a researcher, I'm fascinated by how creating, interpreting, and visualizing data can enhance student learning and support meaningful educational outcomes. My research interests lie in <a href="https://en.wikipedia.org/wiki/Serious_game">serious games</a>, <a href="https://en.wikipedia.org/wiki/Learning_analytics">learning analytics</a>, and using <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to improve education. 
+
+Lately, I’ve been actively working on my PhD applications for Fall 2026! I'm always happy to connect ;)
+
