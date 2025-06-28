@@ -9,7 +9,6 @@ profile:
   image: lf.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>New York City, NY 11101</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +28,7 @@ As a gamer, I regularly explore <a href="https://en.wikipedia.org/wiki/Indie_gam
 
 As a CS/Science teacher, the most rewarding moments for me are hearing my students share their imaginative and creative ideas—and then helping them bring those ideas to life.
 
-As a researcher, I'm fascinated by how creating, interpreting, and visualizing data can enhance student learning and support meaningful educational outcomes. My research interests lie in <a href="https://en.wikipedia.org/wiki/Serious_game">serious games</a>, <a href="https://en.wikipedia.org/wiki/Learning_analytics">learning analytics</a>, and using <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to improve education. 
+As a researcher, I'm fascinated by how creating, interpreting, and visualizing data can enhance student learning and support meaningful educational outcomes. My research interests lie in <a href="https://en.wikipedia.org/wiki/Serious_game">serious games</a>, <a href="https://en.wikipedia.org/wiki/Learning_analytics">learning analytics</a>, and using <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to inform education. 
 
-Lately, I’ve been actively working on my PhD applications for Fall 2026! I'm always happy to connect ;)
+Lately, I’ve been actively working on my PhD applications for Fall 2026! And I'm always happy to connect ;)
 
