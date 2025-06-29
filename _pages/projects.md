@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My past experience spans three areas: teaching, development, and research.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Teaching, Development, Research]
 horizontal: false
 ---
 
