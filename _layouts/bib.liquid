@@ -1,5 +1,14 @@
 ---
 ---
+<style>
+  @media screen and (max-width: 575.98px) {
+    .col-sm-2.preview img {
+      width: 150px !important; /* Adjust this value as needed */
+      height: auto;
+    }
+  }
+</style>
+
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
@@ -34,7 +43,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "50px"
             class="preview z-depth-1 rounded"
             zoomable=true
             avoid_scaling=true
