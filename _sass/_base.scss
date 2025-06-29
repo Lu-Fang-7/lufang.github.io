@@ -206,6 +206,33 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem; /* 控制图片和文字的间距 */
+  flex-wrap: wrap; /* 让它在小屏幕上可以换行 */
+  margin-top: 2rem;
+}
+
+.profile-photo {
+  flex: 0 0 auto;
+  max-width: 240px;
+}
+
+.profile-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.profile-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.profile-text h2 {
+  margin-top: 2rem;
+}
 
 .profile.float-right {
   margin-left: 1rem;
