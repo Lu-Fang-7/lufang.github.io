@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 50%;
+    width: 30%;
 
     .address {
       p {
@@ -405,19 +405,19 @@ ul.task-list input[type="checkbox"] {
 
     a {
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 2.2rem;
+        height: 2.2rem;
+        margin-bottom: 0.8rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
+        width: 2.5rem;
+        height: 3rem;
+        margin-bottom: 0.4rem;
 
         image {
-          width: 2rem;
-          height: 2rem;
+          width: 1.5rem;
+          height: 1.5rem;
         }
       }
 
@@ -729,7 +729,7 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
+      .preview { 
       }
 
       .abbr {
