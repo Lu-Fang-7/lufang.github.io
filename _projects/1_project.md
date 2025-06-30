@@ -1,69 +1,76 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Space Adventure
+description: A series of three mobile learning games in science museum.
+img: assets/img/museum-0.png
 importance: 1
-category: Teaching
+category: development
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This study designs and develops a series of three mobile learning games titled "Space Adventure", based on the "Lunar Base" exhibition at Zhejiang Science and Technology Museum. It includes three mini-games: Position the Solar System, Assemble the Space Suit, and Identify the Meteorites. An experimental teaching session was conducted in the museum. The study collected data through questionnaires and semi-structured interviews to evaluate learning outcomes, interest, and experience. The research questions include:
+(1) How does "Space Adventure" affect students' astronomy learning outcomes?
+(2) How does it influence their interest in astronomy?
+(3) What are the students' learning experiences with the game?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/museum-1.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/museum-2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-4.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-5.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-6.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-7.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-8.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/museum-9.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+A total of 26 learners participated in the experiment, including 16 males (61.54%) and 10 females (38.46%).
+By grade level, there were 8 fourth-grade students (30.77%), 6 fifth-grade students (23.08%), and 12 sixth-grade students (46.15%).
+
+After completing the astronomy-themed educational game series, 88% of learners expressed interest in learning more about galaxies, 92% wanted to continue exploring how to identify meteorites, and 89% were eager to gain more knowledge about the structure and function of space suits.
+
+These results suggest that the game series successfully sparked students’ enthusiasm for astronomy and stimulated their interest in further learning.
+
+In addition, 84% of students acknowledged the importance of understanding galaxy-related knowledge, 85% considered it essential to identify meteorites, and 92% emphasized the significance of learning about the components and structure of space suits. Taken together, these findings indicate that the majority of learners recognized the value of astronomy knowledge and showed a strong willingness to continue their exploration.
+
+Players found the game’s interaction to be smooth, intuitive, and easy to learn. However, some reported issues with the clarity of instructions and game difficulty.
+
+This study used the WeChat Mini Game platform to design the science museum mobile educational game Space Adventure, and explored its effects on learning outcomes, interest, and experience. Overall, the game effectively enhanced elementary learners’ experiences in the museum setting and ignited their interest in science learning.
 
 {% raw %}
 
