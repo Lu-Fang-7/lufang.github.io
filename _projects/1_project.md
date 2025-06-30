@@ -4,7 +4,7 @@ title: Space Adventure
 description: A series of three mobile learning games in science museum.
 img: assets/img/museum-0.png
 importance: 1
-category: development
+category: Development
 related_publications: true
 ---
 
