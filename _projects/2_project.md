@@ -11,6 +11,6 @@ Let's Chemi! is an educational puzzle game designed for the PC platform using Co
 
 <div class="embed-container" style="max-width: 100%; margin: auto;">
   <video controls style="width: 100%; height: auto;">
-    <source src="/assets/video/lets_chemi.mp4" type="video/mp4">
+    <source src="/lufang.github.io/assets/video/lets_chemi.mp4" type="video/mp4">
   </video>
 </div>
