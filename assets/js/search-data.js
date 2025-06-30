@@ -50,9 +50,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/lufang.github.io/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-space-adventure",
+          title: 'Space Adventure',
+          description: "A series of three mobile learning games in science museum.",
           section: "Projects",handler: () => {
               window.location.href = "/lufang.github.io/projects/1_project/";
             },},{id: "projects-project-2",
