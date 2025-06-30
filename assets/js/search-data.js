@@ -55,9 +55,9 @@ ninja.data = [{
           description: "A series of three mobile learning games in science museum.",
           section: "Projects",handler: () => {
               window.location.href = "/lufang.github.io/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-let-39-s-chemi",
+          title: 'Let&amp;#39;s Chemi!',
+          description: "This game is developed using the Construct2 Engine and designed for middle school students to enhance their understanding of chemistry.",
           section: "Projects",handler: () => {
               window.location.href = "/lufang.github.io/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
