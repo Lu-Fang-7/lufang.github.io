@@ -59,30 +59,14 @@ This study designs and develops a series of three mobile learning games titled "
     </div>
 </div>
 
+
 A total of 26 learners participated in the experiment, including 16 males (61.54%) and 10 females (38.46%).
 By grade level, there were 8 fourth-grade students (30.77%), 6 fifth-grade students (23.08%), and 12 sixth-grade students (46.15%).
 
-After completing the astronomy-themed educational game series, 88% of learners expressed interest in learning more about galaxies, 92% wanted to continue exploring how to identify meteorites, and 89% were eager to gain more knowledge about the structure and function of space suits.
-
-These results suggest that the game series successfully sparked students’ enthusiasm for astronomy and stimulated their interest in further learning.
+After completing the astronomy-themed educational game series, 88% of learners expressed interest in learning more about galaxies, 92% wanted to continue exploring how to identify meteorites, and 89% were eager to gain more knowledge about the structure and function of space suits.These results suggest that the game series successfully sparked students’ enthusiasm for astronomy and stimulated their interest in further learning.
 
 In addition, 84% of students acknowledged the importance of understanding galaxy-related knowledge, 85% considered it essential to identify meteorites, and 92% emphasized the significance of learning about the components and structure of space suits. Taken together, these findings indicate that the majority of learners recognized the value of astronomy knowledge and showed a strong willingness to continue their exploration.
 
-Players found the game’s interaction to be smooth, intuitive, and easy to learn. However, some reported issues with the clarity of instructions and game difficulty.
+What's more, players found the game’s interaction to be smooth, intuitive, and easy to learn. However, some reported issues with the clarity of instructions and game difficulty.
 
 This study used the WeChat Mini Game platform to design the science museum mobile educational game Space Adventure, and explored its effects on learning outcomes, interest, and experience. Overall, the game effectively enhanced elementary learners’ experiences in the museum setting and ignited their interest in science learning.
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
