@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: assets/pdf/Lu Fang CV - data.pdf
+permalink: assets/pdf/CV.pdf
 title: CV
 nav: true
 nav_order: 5
