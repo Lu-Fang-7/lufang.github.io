@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lufang.github.io/assets/pdf/Lu-Fang-CV.pdf";
+            window.location.href = "/lufang.github.io/assets/pdf/Lu%20Fang%20CV%20-%20data.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -50,8 +50,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/lufang.github.io/books/the_godfather/";
-            },},{id: "news-i-m-thrilled-to-share-that-my-first-ever-first-authored-paper-helpful-or-harmful-a-comparative-study-of-perceived-and-actual-effectiveness-of-llm-driven-tutors-in-game-based-cfl-learning-has-been-accepted-for-publication-in-education-sciences-sparkles-smile",
-          title: 'I’m thrilled to share that my first-ever first-authored paper, “Helpful or Harmful? A...',
+            },},{id: "news-i-m-happy-to-share-that-i-ve-obtained-a-new-certification-2025-learnlab-summer-school-computer-science-education-research-track-from-learnlab-part-of-carnegie-mellon-university-simon-initiative",
+          title: 'I’m happy to share that I’ve obtained a new certification: 2025 LearnLab Summer...',
+          description: "",
+          section: "News",},{id: "news-i-m-thrilled-to-share-that-my-first-ever-first-authored-paper-helpful-or-harmful-a-comparative-study-of-perceived-and-actual-effectiveness-of-llm-driven-tutors-in-game-based-cfl-learning-has-been-accepted-for-publication-in-education-sciences-sparkles-smile",
+          title: 'I’m thrilled to share that my first-ever first-authored paper, Helpful or Harmful? A...',
           description: "",
           section: "News",},{id: "projects-space-adventure",
           title: 'Space Adventure',
