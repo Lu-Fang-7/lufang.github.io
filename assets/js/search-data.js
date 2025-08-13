@@ -50,7 +50,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/lufang.github.io/books/the_godfather/";
-            },},{id: "projects-space-adventure",
+            },},{id: "news-i-m-thrilled-to-share-that-my-first-ever-first-authored-paper-helpful-or-harmful-a-comparative-study-of-perceived-and-actual-effectiveness-of-llm-driven-tutors-in-game-based-cfl-learning-has-been-accepted-for-publication-in-education-sciences-sparkles-smile",
+          title: 'I’m thrilled to share that my first-ever first-authored paper, “Helpful or Harmful? A...',
+          description: "",
+          section: "News",},{id: "projects-space-adventure",
           title: 'Space Adventure',
           description: "A series of three mobile learning games in science museum.",
           section: "Projects",handler: () => {
