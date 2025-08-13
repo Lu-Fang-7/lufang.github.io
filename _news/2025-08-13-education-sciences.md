@@ -5,4 +5,4 @@ related_posts: false
 published: true
 ---
 
-I’m thrilled to share that my first-ever first-authored paper, “Helpful or Harmful? A Comparative Study of Perceived and Actual Effectiveness of LLM-Driven Tutors in Game-Based CFL Learning,” has been accepted for publication in Education Sciences! :sparkles: :smile:
+I’m thrilled to share that my first-ever first-authored paper, <i>Helpful or Harmful? A Comparative Study of Perceived and Actual Effectiveness of LLM-Driven Tutors in Game-Based CFL Learning</i>, has been accepted for publication in Education Sciences! :sparkles: :smile:
